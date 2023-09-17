@@ -17,7 +17,7 @@
    I fixed 27 names of cities that couldn't be identified automatically.
    Eventually, I represented the sales as classified elements, altering the size of the circle based on the amount of sales.
    The values of stores and cities were represented as labels, and the items were differentiated based on colour.
-   All the processing chain and the output result can be found in xx and xx files. 
+   All the processing chain and the output result can be found in "FinalAssignment_Python.twbx" and FinalAssignment_Python.png files. 
 
     
    
